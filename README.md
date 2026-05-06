@@ -156,6 +156,7 @@ Third Year,Computer Science Engineering Student
 This project is developed for academic and educational purposes.
 
 ## Screenshots
+<center>
 <img width="422" height="760" alt="image" src="https://github.com/user-attachments/assets/b86c7150-c76b-47d0-a6b1-0c5819d1cd1a" />
 <br><br>
 
@@ -182,7 +183,7 @@ This project is developed for academic and educational purposes.
 
 <img width="415" height="792" alt="image" src="https://github.com/user-attachments/assets/5efa2655-4da0-44c0-b83f-3fe1e0534e43" />
 <br><br>
-
+</center>
 
 
 
